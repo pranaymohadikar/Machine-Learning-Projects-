@@ -1,7 +1,7 @@
 # Breast Cancer Prediction
 
 This repository contains all the files related related to this project.
-Breast cancer Predictor [webapp](https://breast-cancer-prediction-v1.herokuapp.com/)
+- *Breast cancer Predictor* [webapp](https://breast-cancer-prediction-v1.herokuapp.com/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
