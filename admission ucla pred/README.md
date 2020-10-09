@@ -43,11 +43,11 @@ This project is divided into :
 
 ### Distribution plots
 
-[1](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/UR_sop.PNG)
-[2](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/gre_toefl.PNG)
-[3](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/lor_cgpa.PNG)
-[4](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/res_coa.PNG)
+![1](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/UR_sop.PNG)
+![2](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/gre_toefl.PNG)
+![3](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/lor_cgpa.PNG)
+![4](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/res_coa.PNG)
 
 ## Deployed Webapps
-- **Github**[Github](https://github.com/pranaymohadikar/Admission-predictor-deployment)
-- **Web app**[Web](https://admission-predictor-v1.herokuapp.com/)
+- **Github**[https://github.com/pranaymohadikar/Admission-predictor-deployment](https://github.com/pranaymohadikar/Admission-predictor-deployment)
+- **Web app**[https://admission-predictor-v1.herokuapp.com/](https://admission-predictor-v1.herokuapp.com/)
