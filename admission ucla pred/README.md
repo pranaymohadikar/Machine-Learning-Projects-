@@ -49,5 +49,5 @@ This project is divided into :
 ![4](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/res_coa.PNG)
 
 ## Deployed Webapps
-- **Github**[https://github.com/pranaymohadikar/Admission-predictor-deployment](https://github.com/pranaymohadikar/Admission-predictor-deployment)
-- **Web app**[https://admission-predictor-v1.herokuapp.com/](https://admission-predictor-v1.herokuapp.com/)
+- **Github** : [https://github.com/pranaymohadikar/Admission-predictor-deployment](https://github.com/pranaymohadikar/Admission-predictor-deployment)
+- **Web app** : [https://admission-predictor-v1.herokuapp.com/](https://admission-predictor-v1.herokuapp.com/)
