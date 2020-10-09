@@ -29,3 +29,16 @@ This project is divided into :
 
 ## Visualization
 
+- chances of admission vs GRE score
+
+![chances of admission vs GRE score](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/coa%20vs%20gre.PNG)
+
+- chances of admission vs Research
+
+![chances of admission vs Research](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/coa%20vs%20research.PNG)
+
+- chances of admission vs TOEFL
+
+![chances of admission vs TOEFL](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/coa%20vs%20toefl.PNG)
+
+- 
