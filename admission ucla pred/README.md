@@ -1,7 +1,8 @@
 # Graduate Admission Prediction
 
 This repository contains all the files related to the project
-- Graduate Admission predictor
+- Graduate Admission predictor [webbapp](https://admission-predictor-v1.herokuapp.com/)
+- Repo of webapp [repo](https://github.com/pranaymohadikar/Admission-predictor-deployment)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview and data description
 
