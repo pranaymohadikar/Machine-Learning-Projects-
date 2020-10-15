@@ -27,5 +27,6 @@ This project is devided into
 - Prediction
 
 ### Visualization
-- 
+- Severity in airplane accidents
+![Severity](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/severity.PNG)
 
