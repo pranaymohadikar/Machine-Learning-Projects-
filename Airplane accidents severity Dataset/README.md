@@ -32,3 +32,40 @@ This project is devided into
 
 ![Severity](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/severity.PNG)
 
+- severity occurence
+
+![occurence](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/type%20of%20severity%20with%20counts.png)
+
+- cabin temperature vs accidents
+
+![ct](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/cabin%20temp%20vs%20severity.png)
+
+It looks like for all the accidents cabin temperature remains almost same.
+
+- Maximum elevation vs accidents
+
+![me](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/max%20elevation%20vs%20severity.png)
+
+hence most types of accidents occur at the height of 30k ft.
+
+### Model building
+
+- Random forest classifier with classification report
+
+![rfc](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/random%20forest%20with%20classification%20report.png)
+
+It look like the AUC score for the model is 0.95
+
+- heatmap
+
+![hm](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/heatmap%20of%20classification%20report.png)
+
+Heatmap looks promising as it give best result
+
+### Prediction with accuracy
+Accuracy : **~95**
+
+![pred](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/prediction.png)
+
+This model gives pretty accurate predictions
+
