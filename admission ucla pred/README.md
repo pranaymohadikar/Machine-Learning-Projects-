@@ -28,7 +28,7 @@ This project is divided into :
 - Model Building
 - Prediction
 
-## Visualization
+### Visualization
 
 - chances of admission vs GRE score
 
@@ -52,6 +52,6 @@ This project is divided into :
 ### Results
 Accuracy: **~82%**
 
-## Deployed Webapps
+### Deployed Webapps
 - **Github** : [https://github.com/pranaymohadikar/Admission-predictor-deployment](https://github.com/pranaymohadikar/Admission-predictor-deployment)
 - **Web app** : [https://admission-predictor-v1.herokuapp.com/](https://admission-predictor-v1.herokuapp.com/)
