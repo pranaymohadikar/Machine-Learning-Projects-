@@ -63,7 +63,7 @@ It look like the AUC score for the model is 0.95
 Heatmap looks promising as it give best result
 
 ### Prediction with accuracy
-Accuracy : **~95**
+Accuracy : **~95%**
 
 ![pred](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/Airplane%20accidents%20severity%20Dataset/readme-resources/prediction.png)
 
