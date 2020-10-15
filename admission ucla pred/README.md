@@ -1,7 +1,8 @@
 # Graduate Admission Prediction
 
 This repository contains all the files related to the project
-- Graduate Admission predictor
+- Graduate Admission predictor [webbapp](https://admission-predictor-v1.herokuapp.com/)
+- Repo of webapp [repo](https://github.com/pranaymohadikar/Admission-predictor-deployment)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview and data description
 
@@ -27,7 +28,7 @@ This project is divided into :
 - Model Building
 - Prediction
 
-## Visualization
+### Visualization
 
 - chances of admission vs GRE score
 
@@ -48,6 +49,9 @@ This project is divided into :
 ![3](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/lor_cgpa.PNG)
 ![4](https://github.com/pranaymohadikar/Machine-Learning-Projects-/blob/master/admission%20ucla%20pred/readme-resources/res_coa.PNG)
 
-## Deployed Webapps
+### Results
+Accuracy: **~82%**
+
+### Deployed Webapps
 - **Github** : [https://github.com/pranaymohadikar/Admission-predictor-deployment](https://github.com/pranaymohadikar/Admission-predictor-deployment)
 - **Web app** : [https://admission-predictor-v1.herokuapp.com/](https://admission-predictor-v1.herokuapp.com/)
