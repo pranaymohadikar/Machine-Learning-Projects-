@@ -41,3 +41,6 @@ This project is divided into various parts:
 - Model Building
 - Prediction
 
+### Predicion
+
+Accuracy : **~95%**
