@@ -1,0 +1,20 @@
+
+Context
+I'm a crowdfunding enthusiast and i'm watching kickstarter since its early days. Right now I just collect data and the only app i've made is this twitter bot which tweet any project reaching some milestone: @bloomwatcher . I have a lot of other ideas, but sadly not enough time to develop them… But I hope you can!
+
+Content
+You'll find most useful data for project analysis. Columns are self explanatory except:
+
+usd_pledged: conversion in US dollars of the pledged column (conversion done by kickstarter).
+
+usd pledge real: conversion in US dollars of the pledged column (conversion from Fixer.io API).
+
+usd goal real: conversion in US dollars of the goal column (conversion from Fixer.io API).
+
+Acknowledgements
+Data are collected from Kickstarter Platform
+
+usd conversion (usdpledgedreal and usdgoalreal columns) were generated from convert ks pledges to usd script done by tonyplaysguitar
+
+Inspiration
+I hope to see great projects, and why not a model to predict if a project will be successful before it is released? :)
